@@ -1,1 +1,1 @@
-# calculadora.py
+# Calculadora com Tkinter
